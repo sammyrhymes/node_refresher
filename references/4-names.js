@@ -1,0 +1,5 @@
+const secret = 'Shhhh!'
+const john = 'John'
+const peter = 'peter'
+
+module.exports = { john, peter}
